@@ -1,6 +1,11 @@
+
+
+// Clase que representa un árbol binario para gestionar productos
 public class ArbolInventario {
     Producto raiz;
 
+
+// Método recursivo para insertar un producto según su ID
     public Producto insertar(Producto raiz, int id, String nombre) {
         if (raiz == null) {
             return new Producto(id, nombre);
