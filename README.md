@@ -15,16 +15,12 @@ java Main
 - Mostrar productos que se han ingresado previmante a un nuevo inventario
 - Buscar elementos que desean verse
 
-## 🖥️ Capturas
+![Menú](01.png)
+![Registro](02.png)
+![Búsqueda](03.png)
+![Extra](04.png)
+![Extra](05.png)
 
-### Menú
-(poner imagen aquí)
-
-### Registro
-(poner imagen aquí)
-
-### Búsqueda
-(poner imagen aquí)
 
 ## 🎥 Video
 (poner link aquí)
